@@ -6,3 +6,10 @@ a.download{
 a:hover.download{
   text-decoration:underline
 } 
+  
+a.link{
+  color:white
+}
+a:hover.link{
+  text-decoration:underline
+} 
